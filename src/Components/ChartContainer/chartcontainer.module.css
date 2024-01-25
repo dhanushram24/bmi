@@ -1,0 +1,45 @@
+.myResultContainer {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.myResultBox {
+    margin: 1rem;
+
+}
+
+.myBmiText {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.myBmiValue {
+    font-size: 2rem;
+    display: inline-block;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: rgb(234, 230, 230);
+}
+
+.myUnderweight {
+    color: #333;
+    font-size: 40px;
+}
+
+.myNormal {
+    color: #28a745;
+    font-size: 40px;
+}
+
+.myObese {
+    color: #dc3545;
+}
+
+.myHealthInfo {
+    width: 100%;
+    margin: 1rem;
+}
+
+.myHealthyBMI {
+    font-weight: bold;
+}
