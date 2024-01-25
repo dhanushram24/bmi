@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import styles from './ChartContainer.module.css';
+import styles from './chartcontainer.module.css';
 import { Chart } from 'chart.js/auto';
 
 
